@@ -33,6 +33,7 @@ namespace BD_Kurs
             button1 = new Button();
             button2 = new Button();
             button3 = new Button();
+            button4 = new Button();
             SuspendLayout();
             // 
             // button1
@@ -65,11 +66,21 @@ namespace BD_Kurs
             button3.UseVisualStyleBackColor = true;
             button3.Click += button3_Click;
             // 
+            // button4
+            // 
+            button4.Location = new Point(351, 12);
+            button4.Name = "button4";
+            button4.Size = new Size(155, 57);
+            button4.TabIndex = 3;
+            button4.Text = "Редактор таблиц";
+            button4.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(518, 575);
+            Controls.Add(button4);
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(button1);
@@ -83,5 +94,6 @@ namespace BD_Kurs
         private Button button1;
         private Button button2;
         private Button button3;
+        private Button button4;
     }
 }
