@@ -38,9 +38,9 @@ namespace BD_Kurs
             // 
             // button1
             // 
-            button1.Location = new Point(12, 12);
+            button1.Location = new Point(228, 19);
             button1.Name = "button1";
-            button1.Size = new Size(175, 57);
+            button1.Size = new Size(210, 50);
             button1.TabIndex = 0;
             button1.Text = "Список автомобилей";
             button1.UseVisualStyleBackColor = true;
@@ -48,9 +48,9 @@ namespace BD_Kurs
             // 
             // button2
             // 
-            button2.Location = new Point(12, 75);
+            button2.Location = new Point(12, 19);
             button2.Name = "button2";
-            button2.Size = new Size(175, 57);
+            button2.Size = new Size(210, 50);
             button2.TabIndex = 1;
             button2.Text = "Список водителей";
             button2.UseVisualStyleBackColor = true;
@@ -58,9 +58,9 @@ namespace BD_Kurs
             // 
             // button3
             // 
-            button3.Location = new Point(12, 138);
+            button3.Location = new Point(12, 84);
             button3.Name = "button3";
-            button3.Size = new Size(175, 57);
+            button3.Size = new Size(210, 50);
             button3.TabIndex = 2;
             button3.Text = "Список поездок";
             button3.UseVisualStyleBackColor = true;
@@ -68,24 +68,25 @@ namespace BD_Kurs
             // 
             // button4
             // 
-            button4.Location = new Point(351, 12);
+            button4.Location = new Point(228, 84);
             button4.Name = "button4";
-            button4.Size = new Size(155, 57);
+            button4.Size = new Size(210, 50);
             button4.TabIndex = 3;
             button4.Text = "Редактор таблиц";
             button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(518, 575);
+            ClientSize = new Size(446, 146);
             Controls.Add(button4);
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(button1);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Просмотр логистики компании \"Просто Космос\"";
             ResumeLayout(false);
         }
 

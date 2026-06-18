@@ -46,5 +46,12 @@ namespace BD_Kurs
             TripsForm.Show();
             this.Hide();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Edit EditForm = new Edit();
+            EditForm.Show();
+            this.Hide();
+        }
     }
 }

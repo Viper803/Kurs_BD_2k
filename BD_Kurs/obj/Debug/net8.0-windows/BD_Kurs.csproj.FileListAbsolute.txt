@@ -61,3 +61,4 @@ D:\VSCode\Projects\BD_Kurs\BD_Kurs\bin\Debug\net8.0-windows\runtimes\win\lib\net
 D:\VSCode\Projects\BD_Kurs\BD_Kurs\obj\Debug\net8.0-windows\BD_Kurs.csproj.AssemblyReference.cache
 D:\VSCode\Projects\BD_Kurs\BD_Kurs\obj\Debug\net8.0-windows\BD_Kurs.csproj.Up2Date
 D:\VSCode\Projects\BD_Kurs\BD_Kurs\obj\Debug\net8.0-windows\BD_Kurs.sourcelink.json
+D:\VSCode\Projects\BD_Kurs\BD_Kurs\obj\Debug\net8.0-windows\BD_Kurs.Edit.resources
