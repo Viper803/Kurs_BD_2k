@@ -3,48 +3,24 @@
   "WorkspaceRootPath": "D:\\VSCode\\Projects\\BD_Kurs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|d:\\vscode\\projects\\bd_kurs\\bd_kurs\\drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|solutionrelative:bd_kurs\\drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|D:\\VSCode\\Projects\\BD_Kurs\\bd_kurs\\drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|solutionrelative:bd_kurs\\drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|d:\\vscode\\projects\\bd_kurs\\bd_kurs\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|solutionrelative:bd_kurs\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|D:\\VSCode\\Projects\\BD_Kurs\\bd_kurs\\trips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|solutionrelative:bd_kurs\\trips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|D:\\VSCode\\Projects\\BD_Kurs\\bd_kurs\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|solutionrelative:bd_kurs\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|d:\\vscode\\projects\\bd_kurs\\bd_kurs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|solutionrelative:bd_kurs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|D:\\VSCode\\Projects\\BD_Kurs\\bd_kurs\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|solutionrelative:bd_kurs\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|d:\\vscode\\projects\\bd_kurs\\bd_kurs\\drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|solutionrelative:bd_kurs\\drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|d:\\vscode\\projects\\bd_kurs\\bd_kurs\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|solutionrelative:bd_kurs\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|d:\\vscode\\projects\\bd_kurs\\bd_kurs\\trips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|solutionrelative:bd_kurs\\trips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|d:\\vscode\\projects\\bd_kurs\\bd_kurs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|solutionrelative:bd_kurs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|d:\\vscode\\projects\\bd_kurs\\bd_kurs\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|solutionrelative:bd_kurs\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|d:\\vscode\\projects\\bd_kurs\\bd_kurs\\trips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F442D7B-AB69-4FA0-9CF5-CA5D29DEAD54}|BD_Kurs\\BD_Kurs.csproj|solutionrelative:bd_kurs\\trips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,140 +42,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Drivers.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Drivers.cs",
-              "RelativeDocumentMoniker": "BD_Kurs\\Drivers.cs",
-              "ToolTip": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Drivers.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "BD_Kurs\\Drivers.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T09:27:15.317Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Form1.cs",
-              "RelativeDocumentMoniker": "BD_Kurs\\Form1.cs",
-              "ToolTip": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Form1.cs",
-              "RelativeToolTip": "BD_Kurs\\Form1.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T08:56:35.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Form1.cs",
-              "RelativeDocumentMoniker": "BD_Kurs\\Form1.cs",
-              "ToolTip": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "BD_Kurs\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T14:39:41.736Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Cars.cs",
-              "DocumentMoniker": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Cars.cs",
-              "RelativeDocumentMoniker": "BD_Kurs\\Cars.cs",
-              "ToolTip": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Cars.cs",
-              "RelativeToolTip": "BD_Kurs\\Cars.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAwwGIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T09:38:37.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Edit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Edit.cs",
-              "RelativeDocumentMoniker": "BD_Kurs\\Edit.cs",
-              "ToolTip": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Edit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "BD_Kurs\\Edit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-18T19:28:26.999Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Trips.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Trips.cs",
-              "RelativeDocumentMoniker": "BD_Kurs\\Trips.cs",
-              "ToolTip": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Trips.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "BD_Kurs\\Trips.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T09:32:01.447Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Drivers.cs",
-              "DocumentMoniker": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Drivers.cs",
-              "RelativeDocumentMoniker": "BD_Kurs\\Drivers.cs",
-              "ToolTip": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Drivers.cs",
-              "RelativeToolTip": "BD_Kurs\\Drivers.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAWwEkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T09:39:24.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Cars.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Cars.cs",
-              "RelativeDocumentMoniker": "BD_Kurs\\Cars.cs",
-              "ToolTip": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Cars.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "BD_Kurs\\Cars.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T09:21:39.305Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Trips.cs",
               "DocumentMoniker": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Trips.cs",
               "RelativeDocumentMoniker": "BD_Kurs\\Trips.cs",
               "ToolTip": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Trips.cs",
               "RelativeToolTip": "BD_Kurs\\Trips.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAACYAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAcwGYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T09:36:44.22Z",
+              "WhenOpened": "2026-06-19T12:40:30.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Form1.cs",
+              "RelativeDocumentMoniker": "BD_Kurs\\Form1.cs",
+              "ToolTip": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Form1.cs",
+              "RelativeToolTip": "BD_Kurs\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T12:40:29.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Edit.cs",
               "DocumentMoniker": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Edit.cs",
               "RelativeDocumentMoniker": "BD_Kurs\\Edit.cs",
               "ToolTip": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Edit.cs",
               "RelativeToolTip": "BD_Kurs\\Edit.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAwwEIAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-18T19:44:47.485Z",
+              "WhenOpened": "2026-06-19T12:40:27.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "BD_Kurs\\Form1.Designer.cs",
-              "ToolTip": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Form1.Designer.cs",
-              "RelativeToolTip": "BD_Kurs\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Drivers.cs",
+              "DocumentMoniker": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Drivers.cs",
+              "RelativeDocumentMoniker": "BD_Kurs\\Drivers.cs",
+              "ToolTip": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Drivers.cs",
+              "RelativeToolTip": "BD_Kurs\\Drivers.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T08:54:32.629Z",
+              "WhenOpened": "2026-06-19T12:40:25.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cars.cs",
+              "DocumentMoniker": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Cars.cs",
+              "RelativeDocumentMoniker": "BD_Kurs\\Cars.cs",
+              "ToolTip": "D:\\VSCode\\Projects\\BD_Kurs\\BD_Kurs\\Cars.cs",
+              "RelativeToolTip": "BD_Kurs\\Cars.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowCAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T12:40:23.944Z",
               "EditorCaption": ""
             }
           ]

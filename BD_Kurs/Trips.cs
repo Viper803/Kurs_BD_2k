@@ -45,7 +45,7 @@ namespace BD_Kurs
                 SqlDataAdapter da = new SqlDataAdapter(query, con);
                 DataTable dt = new DataTable();
                 da.Fill(dt);
-                originalTable = dt; // сохраняем оригинал
+                originalTable = dt;
                 dataGridView1.DataSource = dt;
                 comboBox1.Items.Clear();
                 foreach (DataColumn column in dt.Columns)
@@ -94,7 +94,7 @@ namespace BD_Kurs
             if (foundRows.Length == 0)
             {
                 MessageBox.Show("Совпадений не найдено.", "Результат поиска", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                dataGridView1.DataSource = originalTable; // Показываем все данные
+                dataGridView1.DataSource = originalTable;
             }
             else
             {

@@ -23,14 +23,14 @@ namespace BD_Kurs
         private void LoadCarsData()
         {
             string connectionString = "Data Source=.\\SQLEXPRESS;Initial Catalog=TransportCompany;Integrated Security=True;TrustServerCertificate=True";
-            string query = "SELECT * FROM Cars"; // Замените Cars на имя вашей таблицы
+            string query = "SELECT * FROM Cars";
 
             using (SqlConnection con = new SqlConnection(connectionString))
             {
                 SqlDataAdapter da = new SqlDataAdapter(query, con);
                 DataTable dt = new DataTable();
                 da.Fill(dt);
-                originalTable = dt; // сохраняем оригинал
+                originalTable = dt;
                 dataGridView1.DataSource = dt;
                 comboBox1.Items.Clear();
                 foreach (DataColumn column in dt.Columns)

@@ -5,25 +5,11 @@ namespace BD_Kurs
 
     public partial class Form1 : Form
     {
-        /*void LoadData()
-        {
-            string connectionString =
-                "Data Source=localhost;Initial Catalog=YourDatabaseName;Integrated Security=True";
-
-            string query = "SELECT * FROM Drivers"; // имя таблицы
-
-            SqlConnection con = new SqlConnection(connectionString);
-            SqlDataAdapter da = new SqlDataAdapter(query, con);
-            DataTable dt = new DataTable();
-
-            da.Fill(dt);
-
-            dataGridView1.DataSource = dt;
-        }*/
+        
         public Form1()
         {
             InitializeComponent();
-            /*LoadData();*/
+
         }
 
         private void button1_Click(object sender, EventArgs e)
