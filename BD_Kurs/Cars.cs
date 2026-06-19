@@ -68,13 +68,27 @@ namespace BD_Kurs
 
             if (originalTable == null) return;
 
-            string filter = string.Format("[{0}] = '{1}'", column.Replace("'", "''"), value.Replace("'", "''"));
+            string filter;
+            if (column.Equals("Capacity", StringComparison.OrdinalIgnoreCase))
+            {
+                if (!decimal.TryParse(value, out decimal capacityValue))
+                {
+                    MessageBox.Show("Введите числовое значение для поиска", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+                filter = $"[{column.Replace("'", "''")}] >= {capacityValue.ToString(System.Globalization.CultureInfo.InvariantCulture)}";
+            }
+            else
+            {
+                filter = string.Format("[{0}] = '{1}'", column.Replace("'", "''"), value.Replace("'", "''"));
+            }
+
             DataRow[] foundRows = originalTable.Select(filter);
 
             if (foundRows.Length == 0)
             {
                 MessageBox.Show("Совпадений не найдено.", "Результат поиска", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                dataGridView1.DataSource = originalTable; // Показываем все данные
+                dataGridView1.DataSource = originalTable;
             }
             else
             {

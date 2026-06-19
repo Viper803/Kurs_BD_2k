@@ -138,7 +138,7 @@
             Controls.Add(label2);
             Controls.Add(dataGridView1);
             Name = "Trips";
-            Text = "Trips";
+            Text = "Информация о путевых листах";
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
             PerformLayout();

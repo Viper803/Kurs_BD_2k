@@ -137,7 +137,7 @@
             Controls.Add(label4);
             Controls.Add(dataGridView1);
             Name = "Cars";
-            Text = "З";
+            Text = "Информация об автомобилях";
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
             PerformLayout();

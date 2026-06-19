@@ -117,7 +117,7 @@
             Controls.Add(label1);
             Controls.Add(dataGridView1);
             Name = "Edit";
-            Text = "Edit";
+            Text = "Редактирование информации";
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
             PerformLayout();
